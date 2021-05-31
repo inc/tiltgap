@@ -164,7 +164,6 @@ int generate_addresses(enum addr_type type, char *currency, int qty) {
 	char out_dir[256];
 	char out_txt[256];
 	char out_json[512];
-	char json[4096];
 	char *addr;
 
 	snprintf(out_dir, 255, "tiltgap-%s-%li", currency, ts); 

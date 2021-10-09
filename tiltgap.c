@@ -1,7 +1,6 @@
 /*
 
- The MIT License (MIT)
-
+ TiltGap - Cryptocurrency Bulk Address Generator
  Copyright (c) 2021 Lone Dynamics Corporation
 
  Permission is hereby granted, free of charge, to any person obtaining
